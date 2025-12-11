@@ -1,1 +1,1 @@
-ech "lines"
+echo "lines"
